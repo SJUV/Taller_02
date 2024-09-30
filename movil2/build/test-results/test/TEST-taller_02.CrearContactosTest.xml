@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="taller_02.CrearContactosTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-09-30T04:32:15" hostname="MacBook-Pro-de-Shirly.local" time="15.269">
+  <properties/>
+  <testcase name="verifyCreateTaskContact()" classname="taller_02.CrearContactosTest" time="11.128"/>
+  <testcase name="buscarContacto()" classname="taller_02.CrearContactosTest" time="4.134"/>
+  <system-out><![CDATA[EliEli
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
